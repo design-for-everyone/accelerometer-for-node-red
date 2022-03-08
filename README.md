@@ -1,5 +1,5 @@
 
-> Open this page at [https://frederikduchi.github.io/accelerometer-for-node-red/](https://frederikduchi.github.io/accelerometer-for-node-red/)
+> Open this page at [https://github.com/design-for-everyone/accelerometer-for-node-red](https://github.com/design-for-everyone/accelerometer-for-node-red)
 
 ## Use as Extension
 
